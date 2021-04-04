@@ -1,0 +1,438 @@
+Сэмплинг по годам, все музеи | 2020
+===================================
+
+Topic # 0
+=========
+['black', 'history', 'african', 'right', 'vote', 'people', 'health', 'violence', 'act', 'women']
+
+Ice cream: the inside scoop
+How one girl helped build a Latinx civil rights movement
+Isabella Aiukli Cornell makes prom political
+Rea Ann Silva: The woman behind Beautyblender
+The monument that created Columbus
+Reflecting on Black Life In Two Pandemics
+"Where Two Waters Come Together": The Confluence of Black and Indigenous History at Bdote
+Many Tulsa Massacres: How the Myth of a Liberal North Erases a Long History of White Violence
+Black Life in Two Pandemics: Histories of Violence
+Does an amendment give you the right to vote?
+
+
+Topic # 3
+=========
+['national', 'exhibition', 'arctic', 'grunwick', 'displays', 'iconic', 'conservation', 'different', 'scotland', 'edinburgh']
+
+Museum at home: Reflections on life in lockdown
+Finding solace in beauty
+Wrapped Attention: Conserving a Roman-Egyptian Mummified Girl
+14 things not to miss at the British Museum
+
+
+Topic # 4
+=========
+['look', 'time', 'collection', 'new', 'textile', 'see', 'objects', 'images', 'work', 'art']
+
+Conservation of ancient Egyptian votive statues
+Collecting the Present
+Museums from home across the UK
+100 years of science and conservation
+Manchester’s museum and gallery adventures from home
+
+
+Topic # 6
+=========
+['made', 'used', 'time', 'objects', 'found', 'display', 'work', 'exhibition', 'body', 'discovered']
+
+How to conserve a fish skin bag
+
+
+Topic # 7
+=========
+['objects', 'collection', 'work', 'collections', 'conservation', 'museums', 'care', 'natural', 'scotland', 'conservators']
+
+What are museums for?
+No Place Like Home
+Conversations and conservation in glass
+A peek inside the Museum’s silver chest
+The Big Garden Birdwatch
+Pushing paper: an introduction to contemporary drawing
+
+
+Topic # 9
+=========
+['sculpture', 'posted', 'thought', 'tools', 'drawn', 'sculptures', 'present', 'sitting', 'fascinating', 'piece']
+
+Body Beautiful: Diversity on the Catwalk, from Scotland to Sweden across the World Wide Web
+Seeking Inspiration
+Disposable cups and recycled exhibitions
+
+
+Topic # 10
+==========
+['ice', 'city', 'african', 'rights', 'around', 'local', 'cream', 'public', 'river', 'people']
+
+These are not Viking swords
+The Arctic experience of climate change
+Fighting for country, equal rights, and veterans: Carlos Martinez’s life of service
+Mary Walker, the "Original New Woman"
+
+
+Topic # 13
+==========
+['century', 'city', 'bc', 'visit', 'showing', 'around', 'may', 'athens', 'travel', 'temple']
+
+Egyptian luxury in Roman Scotland
+Everything you ever wanted to know about the Great Court
+Sharing knowledge in Tahiti: reflections on the chief mourner’s costume
+Cook a classical feast: nine recipes from ancient Greece and Rome
+Ancient Egyptian coffins and mystery of ‘black goo’
+Make your own origami inspired by Japanese prints
+
+
+Topic # 14
+==========
+['african', 'end', 'walker', 'arctic', 'family', 'time', 'united', 'woman', 'hand', 'wave']
+
+Combatting illicit trade: identifying and returning a 4,000-year-old relief to Iraq
+Rediscovering Dorothy Hawksley
+Five things to listen for during a presidential debate
+
+
+Topic # 15
+==========
+['ice', 'cream', 'still', 'cultural', 'photo', 'us', 'love', 'changing', 'video', 'simone']
+
+Panoramic peacocks: a Dunfermline discovery
+On this day in 1945: collections from the last bomber raid of WW2
+Buried treasure: top 10 finds
+Cliff Rowe | Work, rest, and play
+OUTing the Past in February
+
+
+Topic # 16
+==========
+['political', 'several', 'local', 'large', 'people', 'debates', 'aksum', 'days', 'king', 'veterans']
+
+Romans in your letterbox
+Looting Scotland in the Viking Age
+
+
+Topic # 17
+==========
+['museum', 'new', 'around', 'sudan', 'british', 'often', 'australia', 'many', 'worked', 'present']
+
+Grayson Perry: The Tomb of the Unknown Craftsman
+Janina Ramirez: four objects for Museums in Quarantine
+How to explore the British Museum from home
+Culture is Open - come and see us!
+
+
+Topic # 18
+==========
+['objects', 'benin', 'collections', 'project', 'new', 'cuffay', 'oil', 'museums', 'us', 'working']
+
+Truths and Reconciliations; indigenous collections in Canadian museums
+A Symbol for Love and Good Health: A 17th Century Japanese Buddhist Mandala Painting
+
+
+Topic # 19
+==========
+['image', 'national', 'movement', 'dirt', 'ray', 'dr', 'would', 'us', 'work', 'original']
+
+Why I’d love to get a lump of coal for Christmas!
+A mantua gown fit for a ball once again
+
+
+Topic # 20
+==========
+['collection', 'movement', 'british', 'know', 'ancient', 'galleries', 'tour', 'artists', 'display', 'resources']
+
+Past, Present and Future
+
+
+Topic # 21
+==========
+['scotland', 'dovecot', 'museums', 'made', 'pieces', 'national', 'body', 'studios', 'bag', 'brennan']
+
+Golden moments researching the Galloway Hoard part two: hidden constellations of gold
+Corona Punks and the Museum
+Ask Me Anything with Meredith Greiling, Senior Curator of Transport
+Collecting and empire
+
+
+Topic # 22
+==========
+['object', 'work', 'collection', 'light', 'material', 'hole', 'fibres', 'image', 'surface', 'collect']
+
+Golden moments researching the Galloway Hoard part one: tracing golden threads
+Collecting creatures in Scotland’s deep seas
+An elegantly simple solar energy solution
+People and planet: is it time to act now?
+
+
+Topic # 23
+==========
+['around', 'great', 'well', 'ice', 'city', 'may', 'century', 'place', 'one', 'river']
+
+Successful symposium inspires new ideas for Children’s Museum renewal
+Historical city travel guide: Rome, 1st century AD
+
+
+Topic # 24
+==========
+['us', 'national', 'work', 'story', 'working', 'species', 'sock', 'trade', 'display', 'workers']
+
+Introduction to the Spinning Wheel collection in National Museums Scotland
+Time flies for an entomologist
+Duck or grouse: identifying birds using museum taxidermy
+Solitary Bees at National Museum of Rural Life
+Man of Sorrows: a conservation story
+Seeing rainbows?
+Sharing a Warp with Archie Brennan
+Parasites exhibition: A Biology teacher’s thoughts
+What’s on at the British Museum in 2021?
+Theodore Roosevelt, Hunter-Naturalist
+
+
+Topic # 25
+==========
+['april', 'curatorial', 'results', 'helps', 'maker', 'burn', 'bit', 'owner', 'incredibly', 'immediately']
+
+From ‘unskilled’ to ‘essential’ | histories of migrant workers in PHM’s collection
+
+
+Topic # 26
+==========
+['history', 'american', 'black', 'americans', 'men', 'state', 'people', 'south', 'many', 'city']
+
+Is this what democracy looks like?
+Samuel Bamford: My Peterloo Hero
+
+
+Topic # 27
+==========
+['black', 'american', 'african', 'war', 'suffrage', 'men', 'state', 'military', 'white', 'rights']
+
+Into the Hills: Digging for Scottish Gold
+WITH Coastal Style: Researching the Capulana in Mozambique
+The Match Girls’ Strike | Sarah’s story
+The trade unions of the Middle Ages
+Pennies and nickels add up to success: Maggie Lena Walker
+The artistry behind a baseball bat
+A Watched Pot Never Boils
+Racism is a public health crisis
+John Lewis and Good Trouble
+
+
+Topic # 28
+==========
+['great', 'bag', 'also', 'snelling', 'skin', 'one', 'men', 'police', 'many', 'would']
+
+Eight LGBTQ objects to celebrate Pride 2020
+
+
+Topic # 29
+==========
+['collections', 'british', 'objects', 'exhibition', 'phm', 'museum', 'chinese', 'union', 'tomb', 'migrant']
+
+The Evolution of Toy Tyrants
+The Lost Sock
+The British Museum Membercast: Looking for Troy
+Deciphering history
+
+
+Topic # 30
+==========
+['national', 'could', 'ice', 'become', 'design', 'silva', 'many', 'collection', 'rights', 'important']
+
+Fake antiquities made for unsuspecting collectors
+
+
+Topic # 31
+==========
+['well', 'walker', 'used', 'would', 'today', 'court', 'image', 'rather', 'light', 'however']
+
+Communicating remotely…
+The tea-rific history of Victorian afternoon tea
+
+
+Topic # 33
+==========
+['collections', 'museums', 'scotland', 'collection', 'gallery', 'national', 'edinburgh', 'display', 'stories', 'museum']
+
+Seeing History: a glimpse into the National Museum of Scotland’s historic spectacles collection.
+Drawn from history – deconstructing menswear silhouettes from historic portraits
+Using museum technology to look inside a pair of 18th Century shoes
+Garments on tour
+Sharing our Members’ museum stories
+Through a looking glass
+Saving Saraha: conservation of a Tibetan thangka
+What lurks under the microscope? Dust detective work
+
+
+Topic # 34
+==========
+['transformed', 'year', 'question', 'instead', 'roles', 'education', 'returned', 'john', 'movements', 'college']
+
+Tyrannosaurus rex was no senseless killer
+October 1970: Multiple Perspectives on a Drama
+Port of Entry: Immigration Stories From Pier 21
+A message from Director Hartwig Fischer
+Bonnie Greer: the Era of Reclamation
+From violent protest to attic safety: The Vietnam War and a Hampstead Labour Party banner
+Fake news is old news
+"They called me 'race traitor'": Joan Trumpauer Mulholland's lifetime of resistance
+Empty stadiums resonate with history
+When Watchmen were Klansmen
+How picturing the Boston Massacre matters
+How butterfly wings helped a new collecting initiative take flight
+
+
+Topic # 35
+==========
+['unique', 'decided', 'metal', 'position', 'previous', 'david', 'cotton', 'posted', 'legs', 'approach']
+
+Hogmanay rocks! Meet the minerals behind the New Year’s Eve fireworks
+Reawakening our sleeping museums
+Investigating Insects Near You
+Edinburgh: The Tyrannosaur City
+Mary Beard's top five objects
+Ideas worth exploring – at home and online
+Making history through contemporary collecting
+When Dumbo came to D.C.
+
+
+Topic # 36
+==========
+['city', 'river', 'century', 'around', 'bc', 'woodblock', 'may', 'water', 'many', 'local']
+
+Ancient city travel guide: Persepolis, 500 BC
+How to cook a medieval feast: 11 recipes from the Middle Ages
+Kali rises in the East
+Major new archaeology project on site of new museum in Benin
+Demystifying Tantric sex
+Historical city travel guide: Thebes, Egypt, 13th century BC
+Historical city travel guide: Athens, 5th century BC
+Historical city travel guide: Edo (Tokyo), early 19th century
+The Great Wave: spot the difference
+The tales emergency currency can tell
+
+
+Topic # 37
+==========
+['different', 'objects', 'collect', 'scotland', 'us', 'sir', 'collection', 'fibres', 'object', 'assistant']
+
+Moths, Monitoring and a Mountain Hare: collections care during lockdown
+A remarkable life in fossils
+Looking forward to reopening
+100 years of science and conservation: recent conservation highlights
+Going back to Grunwick
+A patient banner and the problem with plastic
+
+
+Topic # 38
+==========
+['civil', 'americans', 'rights', 'could', 'later', 'history', 'state', 'vote', 'freedom', 'mississippi']
+
+The Manchester suffragette banner: Mancunian pride, mystery and celebrity!
+This is why I chose the inspirational Jayaben Desai
+Why a social activist opposed woman suffrage
+Thinking about impeachment like a historian
+
+
+Topic # 39
+==========
+['public', 'black', 'center', 'communities', 'rights', 'country', 'state', 'violence', 'anti', 'lives']
+
+Bonnie Greer: what we have saved from the fire
+Africa Speaks in Manchester: Pan-Africanism, Manchester and a collection gem
+William Cuffay, Black Chartism and a treasured object
+The echoes of war: Curatorial legacies of World War II
+The story behind the photograph: Gay Dads Kissing, 1983
+Science and political protest: A Q&A with Dr. Florence Haseltine
+In 1868, Black suffrage was on the ballot
+
+
+Topic # 40
+==========
+['benin', 'undocumented', 'objects', 'weight', 'used', 'cups', 'walker', 'deportation', 'end', 'damaged']
+
+Managing Mannequins for Body Beautiful: Diversity on the Catwalk
+Hidden histories and powerful stories
+
+
+Topic # 41
+==========
+['art', 'home', 'presented', 'providing', 'online', 'activities', 'gallery', 'rowe', 'working', 'phm']
+
+New Director’s reflections
+Disability and the British Museum collection
+
+
+Topic # 44
+==========
+['city', 'american', 'people', 'temple', 'bc', 'black', 'fort', 'west', 'food', 'local']
+
+Historical city travel guide: Kulubnarti, Sudan, late 12th century
+Bonnie Greer: three journeys
+Art and Uprising: The George Floyd and Anti-Racist Street Art Database
+
+
+Topic # 45
+==========
+['black', 'american', 'state', 'communities', 'country', 'violence', 'rights', 'americans', 'river', 'theatre']
+
+10 things you need to live in the Arctic
+Essential and expendable: The rise of agricultural labor and the United Farm Workers
+COVID-19, police violence, and the historical thread that binds them: Structural racism as a public health issue
+25 years later: the legacy of the El Monte sweatshop raid
+How young, undocumented organizers fought to bring DACA into existence
+100 years later, do we think Prohibition was good for the nation?
+
+
+Topic # 46
+==========
+['city', 'century', 'around', 'bc', 'river', 'local', 'print', 'may', 'men', 'people']
+
+The tale of the Montserrat oriole
+Freshly Pressed: Place-Making in the Pretty Harbour!
+Historical city travel guide: Osaka in the early 19th century
+Discovering a 4,500-year-old olive oil factory in Jordan
+Making 2,000-year-old Roman bread
+Historical city travel guide: Aksum, 6th century AD
+Historical city travel guide: London, late 16th century
+Historical city travel guide: Nineveh, 7th century BC
+13 landscapes to lose yourself in
+What is Tantra?
+Who was Homer?
+An introduction to the Arctic
+Ideas Worth Exploring from People's History Museum
+Chef Lena Richard: Culinary Icon and Activist
+
+
+Topic # 47
+==========
+['ice', 'cream', 'ad', 'century', 'like', 'tsp', 'make', 'food', 'john', 'hoard']
+
+Before it disappears: recording endangered practices, skills and knowledge
+
+
+Topic # 48
+==========
+['collection', 'museum', 'british', 'museums', 'collections', 'gallery', 'migrant', 'national', 'discovered', 'present']
+
+Time Travelling at National Museums Scotland
+The first metalworkers of Scotland
+Not Fade Away – Constructing a Replica Victorian Bodice for Permanent Display
+An Outsiders View – The Making of the Glenmorangie Commission
+How to Use Conservation skills in Lockdown: what are our paper and textile conservators getting up to?
+Finding China, Japan and Korea in Scotland: East Asia Collections Review
+Our collections in the movies
+The King’s Flints: New Light on Prehistoric Stone and Bronze artefacts from Denmark
+Looking for ancient Egypt across Scotland: The National Ancient Egyptian Collections Review
+Virtual National Museums Scotland
+Brian the Lion, Oswald the Cat and the World’s Oldest Football
+Depicting the dead: ancient Egyptian mummy portraits
+Virtual visit: London landmarks
+Being relevant and resonant in today’s world | 5 minutes with Katy Ashton
+
+

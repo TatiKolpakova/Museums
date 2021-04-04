@@ -1,0 +1,446 @@
+Сэмплинг по годам, все музеи | 2010
+===================================
+
+Topic # 1
+=========
+['fiddle', 'invention', 'lab', 'shetland', 'michael', 'morning', 'spent', 'jonas', 'light', 'phone']
+
+Pac-Man bites back
+
+
+Topic # 2
+=========
+['appeal', 'highlights', 'large', 'style', 'cost', 'posted', 'place', 'dish', 'murray', 'panel']
+
+Museum curators learn about alcohol!
+Where the Wild Things aren’t
+What is a Book of the Dead?
+Race to the Museum: Voting opens Dec. 21
+50 years of running COBOL
+Bottling the hot spot
+Back to the Eco-Future!
+
+
+Topic # 3
+=========
+['known', 'small', 'project', 'electronics', 'october', 'orange', 'toffee', 'engineers', 'global', 'working']
+
+Here be dragons
+Shining Lights and Bell Rock 200
+Whisky, jewellery and shoes: the ideal job?
+Sounds Global
+What a relief!
+Creating story boxes for a new gallery
+A Shetland diary: Blown home
+Thanksgiving in a can
+Billions and billions of galaxies?
+
+
+Topic # 4
+=========
+['detail', 'signed', 'somewhat', 'struck', 'visits', 'order', 'conversation', 'ages', 'keeping', 'stood']
+
+Coleopterology to Couture… or inspirational insects
+Soapy makeover for the Lewis chessmen
+Our Boeing 707 is 50!
+A Shetland diary: Rhythms and reels
+Race to the Museum: Glasspar sports car, 1953
+Political campaigning before Twitter and Facebook
+
+
+Topic # 5
+=========
+['appeal', 'proved', 'summer', 'robert', 'easy', 'board', 'started', 'natural', 'aircraft', 'allowed']
+
+Caveat Curator: Let the curator beware
+Race a crocodile and see like a bat!
+Go Wild in the Country
+Stuck in the stocks and walking with bats!
+Race to the Museum: Oldsmobile curved-dash runabout, 1903
+Caofeidian: China's city of the future or urban laboratory?
+Kanye West sunglasses and FBI sweatshirts
+Olympic feets
+
+
+Topic # 7
+=========
+['smithsonian', 'jazz', 'greensboro', 'history', 'american', 'war', 'lincoln', 'program', 'lunch', 'four']
+
+You Asked, We Answer: Taking Care of Your Own Archives
+Stories of the Mexican Revolution
+A no-brainer collaboration: "Music for the World of Tomorrow"
+Treasure hunting
+Americans with Disabilities Act turns 20
+An unheralded battle in the war against segregation
+Lincoln's words live on
+Remarkable New Jersey!
+
+
+Topic # 8
+=========
+['one', 'experience', 'us', 'way', 'rights', 'month', 'sit', 'home', 'freedom', 'archives']
+
+Lucy – The girl who lived (A story of survival, rescue and romance)
+Exploring historical connections in China
+Thanking our legacy donors
+Are we on a slippery slope of national amnesia?
+Thanks for doing your part to #rememberabe
+
+
+Topic # 10
+==========
+['history', 'day', 'american', 'jazz', 'also', 'experience', 'school', 'smithsonian', 'way', 'museum']
+
+Back to our roots
+Collecting American science
+Origins of a fortune cookie
+America’s Funniest…cocktail party
+In tribute to Lena Horne (June 30, 1917–May 9, 2010)
+Presidential hands and bloodstained cuffs
+Designing the American Dream with Mrs. Obama in mind
+
+
+Topic # 11
+==========
+['history', 'museum', 'american', 'many', 'one', 'program', 'boy', 'lunch', 'experience', 'director']
+
+American girlhood
+A victory for chard
+New take on the old museum field trip
+Picturing veterans
+Remembering life on the Day of the Dead
+Meet Marty Bienstock, Spark!Lab docent
+Physicists at play: The 2010 Nobel Prize winners
+A personal British invasion
+Independent inventors, hidden in plain sight
+Remembering September 11, 2001
+Museums take a page from the American Library Association's book
+The digital draft: preserving process in a computerized world
+100 years of Boy Scouts in our collections
+Discover unexpected treasures
+Becoming a U.S. citizen at the National Museum of American History
+The Archives Center collections come to life in "Sophisticated Ladies"
+Sweethearts of rhythm
+Remember Abe
+A teacher's perspective on the Greensboro Sit-In Youth Town Hall
+Star Spangled Women: Mary Pickersgill
+Powerful lessons from the Greensboro Four
+An American timeline
+Step by step to freedom and justice
+Sitting in with history
+
+
+Topic # 12
+==========
+['way', 'see', 'day', 'questions', 'us', 'history', 'read', 'also', 'share', 'program']
+
+Welcoming our littlest visitors
+Making "Music for The World of Tomorrow"
+Who was Dennis Hopper? (1936-2010)
+Don’t let this treasure become a “Lost Symbol”
+
+
+Topic # 13
+==========
+['museum', 'said', 'would', 'world', 'teachers', 'teaching', 'history', 'special', 'american', 'one']
+
+Time travel and technical toys: Volunteering for the Science and Technology department
+A few of our favorite things
+Hallowe’en? Putting the apostrophe back
+The knowledge factor in Silicon Valley
+
+
+Topic # 14
+==========
+['sit', 'story', 'one', 'much', 'lunch', 'student', 'history', 'counter', 'freedom', 'rights']
+
+You asked, we answer: What happened to the Pentagon flag from September 11, 2001?
+Why commemorate the centennial of the Mexican Revolution?
+Eagan, Minnesota . . . where all the children are above average!
+What would you like to do at the museum?
+
+
+Topic # 16
+==========
+['history', 'american', 'story', 'four', 'sit', 'center', 'museum', 'come', 'civil', 'would']
+
+The miniature world of Faith Bradford
+
+
+Topic # 17
+==========
+['eight', 'automobiles', 'january', 'december', 'race', 'industry', 'vehicle', 'displayed', 'vote', 'flight']
+
+The Chessmen’s Travels
+Race to the Museum: Vote for your favorite car
+
+
+Topic # 18
+==========
+['people', 'us', 'center', 'many', 'stories', 'would', 'city', 'education', 'story', 'part']
+
+"So whatever will happen": Music celebrates Haitian cultural identity
+
+
+Topic # 19
+==========
+['events', 'experience', 'written', 'part', 'real', 'project', 'well', 'might', 'lab', 'inspired']
+
+Lincoln yesterday, today, and tomorrow
+
+
+Topic # 20
+==========
+['museums', 'special', 'lots', 'posted', 'next', 'miller', 'busy', 'try', 'bag', 'yucca']
+
+Romans and Gladiators live on!
+An Idle Record of an Idle Summer
+Meet Libby Folsom, Spark!Lab docent
+The grooviest place on the National Mall
+
+
+Topic # 22
+==========
+['history', 'day', 'american', 'museum', 'students', 'one', 'program', 'young', 'learned', 'school']
+
+Seizing justice: The Greensboro 4
+Middle school "reverse field trips"
+
+
+Topic # 23
+==========
+['center', 'would', 'share', 'case', 'us', 'learned', 'change', 'lunch', 'learn', 'company']
+
+Going places and completing challenges with the goSmithsonian Trek mobile app
+When history meets pop culture: The Jonas Brothers visit the museum
+The 1906 San Francisco quake, in color
+
+
+Topic # 24
+==========
+['experience', 'see', 'us', 'great', 'future', 'intern', 'lunch', 'collection', 'student', 'freedom']
+
+Seeing, Hearing, Touching, Tasting, Feeling Cholesterol: Part I
+Happy anniversary, lasers!
+Secrets of the stores
+
+
+Topic # 25
+==========
+['think', 'students', 'learned', 'never', 'lunch', 'teacher', 'counter', 'came', 'early', 'event']
+
+Reopening the Dibner Library of Science and Technology
+
+
+Topic # 26
+==========
+['art', 'posted', 'co', 'sessions', 'tried', 'session', 'despite', 'centre', 'whole', 'gettysburg']
+
+The Blaschka models
+Technical toy nostalgia
+Curator’s visit to Mali
+Reminder: Tell us what you think about the blog
+Pu pu platters versus birthday cakes
+In search of the spirit of invention in Silicon Valley
+Of avatars and inventors
+
+
+Topic # 27
+==========
+['smithsonian', 'day', 'american', 'archives', 'history', 'one', 'great', 'many', 'program', 'center']
+
+Preserving the Maid of Cotton collection
+From the Victory Garden: If you like it hot
+Abbey Lincoln, singer emancipator (August 6, 1930-August 14, 2010)
+Coloring Frida Kahlo
+
+
+Topic # 28
+==========
+['science', 'january', 'check', 'co', 'voting', 'tried', 'race', 'workshop', 'engine', 'unlike']
+
+Life in the freezer
+Turf, stone and Icelandic folklore
+Black boxes and big objects: Life at the National Museum of Flight
+Race to the Museum: EV1 electric car, 1997
+Race to the Museum: Tucker sedan, 1948
+Race to the Museum: Balzer automobile, 1894
+Celebrate NanoDays in Spark!Lab
+
+
+Topic # 29
+==========
+['discovery', 'visits', 'doors', 'made', 'room', 'millions', 'painting', 'weather', 'december', 'style']
+
+Natural Sciences go north
+10...9...8...Top 10 posts of 2010
+Slideshow: 2010 Year in Review
+An old coat and a ping pong ball = Kermit?
+Why are food stamps in the National Numismatic Collection?
+
+
+Topic # 31
+==========
+['new', 'young', 'first', 'one', 'back', 'people', 'world', 'home', 'may', 'learned']
+
+"Who Will Chop Your Suey When I'm Gone?"
+
+
+Topic # 33
+==========
+['eight', 'conclusion', 'december', 'series', 'displayed', 'highlights', 'dozen', 'race', 'extremely', 'january']
+
+Will fight for groats
+My Darien Chest Adventure
+Helmets and holidays
+Getting interactive in the new galleries
+Race to the Museum: GM Sunraycer solar car, 1987
+Race to the Museum: Miller race car, 1929
+
+
+Topic # 34
+==========
+['us', 'students', 'film', 'experience', 'program', 'museum', 'think', 'questions', 'would', 'could']
+
+The Apollo Theater: "It's in the Cards"
+Living our mission
+Cracking the genetic code
+
+
+Topic # 35
+==========
+['students', 'smithsonian', 'day', 'program', 'think', 'american', 'also', 'history', 'one', 'month']
+
+Curator in Korea
+Haiti's voices of hope
+My scouting story
+Vince and Larry dummies "crash" into the Smithsonian
+Research in progress: Can you help identify the man in this 1870s photo?
+Will you marry me?
+Singing for freedom at the White House
+
+
+Topic # 36
+==========
+['like', 'people', 'day', 'old', 'also', 'think', 'could', 'visit', 'family', 'new']
+
+Political cartoons and pocket watches
+Love the Smithsonian? Thank James Smithson.
+
+
+Topic # 37
+==========
+['history', 'program', 'american', 'one', 'sit', 'smithsonian', 'many', 'students', 'rights', 'way']
+
+Learning about sacrifice on Veterans Day
+Teaching history by telling stories
+Sacred ground: Smithsonian Gardens commemorating Medal of Honor recipients
+The National Mall then and now
+Memories of a wartime poster model
+Exploring continuity and change through the history of the bicycle
+Seeing, Hearing, Touching, Tasting, Feeling Cholesterol: Part II
+Failure is wonderful
+The Technicolor world of Oz
+A frozen margarita tale for Cinco de Mayo
+JAMing in Omaha
+Lincoln and the Civil War
+Tapping young talent
+A celebration of teaching and learning
+Is this on the test? Integrating American history into language arts
+We need each other
+
+
+Topic # 38
+==========
+['matter', 'art', 'showing', 'nigeria', 'recipes', 'cholesterol', 'soldier', 'success', 'top', 'tuesday']
+
+Teacup, Tea cup or Cup, tea?
+A musical celebration of the Nigerian Golden Jubilee
+Squirrels stealing the scene at the Smithsonian
+Forty years of service
+How do you look at Lincoln?
+
+
+Topic # 39
+==========
+['center', 'lincoln', 'one', 'war', 'music', 'copy', 'national', 'way', 'years', 'director']
+
+A flash of inspiration
+Did Susan Holbert make this quilt?
+
+
+Topic # 40
+==========
+['race', 'extremely', 'set', 'almost', 'eight', 'kinds', 'wait', 'try', 'toys', 'getting']
+
+Cutting it fine
+Sweet & Sour: Memories of a Chinese restaurant
+
+
+Topic # 41
+==========
+['photographs', 'help', 'photographic', 'show', 'film', 'online', 'including', 'prize', 'album', 'visit']
+
+Photographing (painting) the Dolls' House
+
+
+Topic # 42
+==========
+['lincoln', 'said', 'history', 'would', 'war', 'american', 'see', 'revolution', 'washington', 'left']
+
+An Undercover Invention: Baseball Covers and Stitching
+Backstage at the museum
+You asked, we answer: Is the Star-Spangled Banner a poem or a song?
+A tiny yellow doll's shirt: telling the story of immigration through objects
+A brief history of AZT
+Digital native or digital immigrant (or does it matter?)
+Rudolf Eickemeyer, Jr.: American photographer and amateur’s advocate
+Putting a face to the invention
+How do you exhibit commitment?
+50th anniversary of the Pill
+
+
+Topic # 45
+==========
+['pu', 'although', 'powered', 'december', 'crowd', 'despite', 'kid', 'work', 'aircraft', 'curator']
+
+A passion for chess pieces
+A Shetland diary: Landscape and light
+Race to the Museum: Which cars are in the lead?
+Don’t say “yuk” to yucca
+You Asked, We Answer: Why can't I take a picture of the Star-Spangled Banner?
+Decisions, decisions . . .
+
+
+Topic # 47
+==========
+['scotland', 'posted', 'pieces', 'orange', 'line', 'weather', 'lewis', 'testing', 'trying', 'energy']
+
+Exploring our evidence
+"Tapping" into innovation
+
+
+Topic # 48
+==========
+['national', 'squirrels', 'remember', 'experts', 'feeling', 'experiment', 'serve', 'bright', 'comes', 'medical']
+
+The golden age of air travel revisited
+Lights, camera, action from the trenches
+How to send us a "good" bad comment
+
+
+Topic # 49
+==========
+['vote', 'car', 'industry', 'december', 'millions', 'curator', 'race', 'january', 'en', 'eight']
+
+Christmas Fair and (no) Foal Show
+An A-Z of work experience
+Stargazing, scary games and piglets: The latest news from the farm
+One week like this: A national adventure
+Dairy herd achieves new heights
+National Family Weekend: Animal Tales storytelling session
+Race to the Museum: Long steam tricycle, about 1880
+No chop suey here
+You asked, we answer: What is the oldest known color photo?
+
+

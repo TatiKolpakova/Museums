@@ -1,0 +1,598 @@
+Сэмплинг по годам, все музеи | 2018
+===================================
+
+Topic # 0
+=========
+['singer', 'true', 'paint', 'news', 'suggests', 'collected', 'appearance', 'represent', 'pay', 'newly']
+
+Mont-Albert
+Contempra Telephone
+Mallet
+Icebreaker CCGS D’Iberville
+Jointer plane
+Nunavut
+Hooked rug
+
+
+Topic # 2
+=========
+['one', 'also', 'new', 'early', 'first', 'made', 'see', 'century', 'objects', 'like']
+
+Data-led design: Using visitor behaviour to inform touchscreen content
+Art of Glass: truly diverse works of glass art in Scotland
+A student amongst the stacks: my experience in the Research Library
+Celebrating African cloth
+Ian Hislop's objecting objects
+Recovered Ruby Slippers visit museum for examination by conservators, curators . . . and FBI agents
+300 years and counting: A new look at New Orleans and “Creole cuisine”
+
+
+Topic # 3
+=========
+['dynasty', 'recent', 'pay', 'round', 'finished', 'entered', 'closed', 'saturday', 'brush', 'bbc']
+
+Rooftop Concert!
+Merry Christmas!
+Prisoner’s box
+Pendant
+Kayak and paddle
+The fog bell of the Empress of Ireland
+Flower Brick in the Shape of a Tortoise
+On board of the CGS Arctic
+Port Burwell, Nunavut
+Wood Buffalo National Park
+Seal and caribou skin boots
+
+
+Topic # 4
+=========
+['singer', 'com', 'photography', 'offered', 'nineveh', 'fit', 'grapes', 'furniture', 'purpose', 'battle']
+
+First courier of New France
+Flute
+Covered bridge
+School desk
+Library of Parliament
+Dessert fork and Arctic Medal
+Man making maple sugar
+Year of the dog!
+The British Museum Membercast: Halloween
+The British Museum Membercast: Nefertiti’s face
+The British Museum Membercast: Making a living in Iron Age Britain
+
+
+Topic # 5
+=========
+['people', 'made', 'scotland', 'world', 'years', 'national', 'century', 'around', 'new', 'time']
+
+A legacy in fossils: celebrating the life and work of Stan Wood
+Charles Rennie Mackintosh: shining a light on First World War history
+On the trail of the Romans
+A sip of history: ancient Egyptian beer
+International women collectors
+Alan Alda's insider view from the set of M*A*S*H
+Helen West Heller: artist, poet, activist
+
+
+Topic # 6
+=========
+['war', 'use', 'british', 'see', 'working', 'many', 'may', 'using', 'also', 'back']
+
+#FutureFeatures: Gus Harrower
+A golden introduction: Prehistoric gold in Britain’s auriferous regions 2450–800 BC
+Barbara Ann Scott: More than just “Canada’s Sweetheart”
+4 music-inspiring objects through the eyes of our Making American Music interns
+Oregon's Big Pine: Standing tall when the U.S. Constitution was signed
+From seams to strikes: Exploring women at work through clothing in our collection
+
+
+Topic # 7
+=========
+['made', 'two', 'work', 'one', 'collection', 'around', 'see', 'right', 'people', 'american']
+
+Collecting the Present: the future of Ulva
+Sacrifice or scrap? The Bronze Age weapons from Duddingston Loch
+Crystal clear: How West Dean College conservation students contributed to a glass cleaning project
+Digital Development: Making more films on our mobile!
+Searching for women artists and designers in National Museums Scotland’s collection
+A mysterious stamp
+The children: The greatest loss of the Empress tragedy
+Desire, love, identity: exploring LGBTQ histories
+Steven Fielding highlights five objects in a series of films for PHM
+
+
+Topic # 8
+=========
+['singer', 'sold', 'plaster', 'politics', 'believed', 'farm', 'leading', 'influence', 'discover', 'true']
+
+The Forster doll house
+Armistice Day
+Inuit carving of a European ship
+Ottawa Senators sweater
+Moose
+Remnant of the the Cold War
+First snowmobile going up to Scientific camp of Admiral MacMillan
+
+
+Topic # 11
+==========
+['battle', 'drawings', 'success', 'someone', 'followed', 'offered', 'brush', 'mid', 'low', 'showed']
+
+18th century clock
+Hooked rug
+Haying in Labrador
+Pictou County, Nova Scotia
+Totem poles
+The Bergeron Circus
+A Cod fish of 90 lbs
+Barbara Ann Scott doll
+
+
+Topic # 12
+==========
+['program', 'event', 'believed', 'round', 'shown', 'someone', 'battle', 'knew', 'success', 'sold']
+
+Two men playing checkers
+Trappers leaving for hunting
+Turkey
+Chipewayan mother and her two children
+Coastal village
+See you at the summit!
+St. Onuphrius church
+Children game : The Daisy
+Curling
+The British Museum Membercast: A year in the life of scientific research at the Museum
+
+
+Topic # 13
+==========
+['would', 'years', 'part', 'many', 'us', 'time', 'one', 'made', 'also', 'objects']
+
+The first millennials: finding the forgotten 11th century in Scotland
+Researching military collections: the miniature Cawnpore Cross
+Pest management and labelling: an object lesson
+Creating a 1950s dressing up box
+
+
+Topic # 14
+==========
+['dynasty', 'believed', 'true', 'paint', 'significant', 'forms', 'journey', 'task', 'actually', 'air']
+
+Fall Wheat
+Pocket watch
+Saddle
+The snowbirds
+Nunatsiarmut igloo
+The British Museum Membercast: Transforming a gallery
+
+
+Topic # 16
+==========
+['would', 'people', 'objects', 'made', 'new', 'first', 'collection', 'british', 'used', 'part']
+
+Stitches in time
+200 stitches in time saves lining
+National Museums Scotland: The world to Scotland and Scotland to the world
+Seeing stars: astrolabes and the Islamic world
+Rodin and ancient Greece: a perfect pairing
+“This is 9-1-1. What is your emergency?”: A history of raising the alarm
+Creating an 1890s orchard in a museum
+
+
+Topic # 17
+==========
+['many', 'made', 'around', 'used', 'could', 'part', 'day', 'time', 'collections', 'century']
+
+Beginning with bees…
+A bluffer's guide to dissent in 7 objects
+Rembrandt's depictions of women
+Rochdale school explore their idea of representation
+A new podcast: Order 9066
+Mourning pictures: How women used embroidery to memorialize George Washington, family, and friends
+
+
+Topic # 20
+==========
+['also', 'made', 'work', 'first', 'century', 'would', 'early', 'one', 'display', 'museum']
+
+Cables and Cat Memes: Finding Everyday Maths in Museums
+Inspiring Volunteers Award 2018 honours Natural Sciences volunteer Bill Crighton
+Capturing 20,000 objects in 2 shoots: the making of a Google Museum View
+The struggle for inclusion: The perspective of Asian Canadians
+A library fit for a king
+Conserving a suit of samurai armour
+Visualising Toussaint Louverture
+"What's on your neighbor's table..."
+The All-Star Game returns to the nation's capital for the fifth time
+How do the arts promote social change?
+La Choy and Korean cofounder Ilhan New: Negotiating Asian culinary identities in America
+12 days in Hue: An American advisor’s Tet Offensive experience, Part 2
+
+
+Topic # 21
+==========
+['era', 'wearing', 'low', 'photography', 'named', 'prohibition', 'offered', 'words', 'purpose', 'joined']
+
+La Chasse-galerie
+Parliament Building
+Horse-drawn hearse
+Glenn Gould scarf
+Dog sled en route to Coppermine River
+The British Museum Membercast: Living with gods
+
+
+Topic # 22
+==========
+['one', 'art', 'people', 'also', 'new', 'first', 'scotland', 'part', 'collection', 'work']
+
+Robert the Bruce: Objects relating to Scotland’s Outlaw King
+Top 5 favourite Tim Peake moments
+Putting together Rip it Up: The Story of Scottish Pop
+A walk through Edinburgh’s musical history
+Of voles and men
+A trunk with a tale
+William Notman: Witness and Photographer of the Victorian era
+A history of world music in 15 instruments
+
+
+Topic # 23
+==========
+['work', 'art', 'collection', 'exhibition', 'one', 'also', 'museum', 'first', 'scotland', 'would']
+
+Coffin of the ‘Qurna Queen’
+Re-typing History: The Sholes-Glidden Typewriter and the QWERTY Keyboard
+Phoenixes in Flight: Conservation of a Chinese Kingfisher hair piece
+Brachiopods Stateside: a visit to the Yale Peabody Museum of Natural History
+When Primary 3 met Tim Peake
+Art of Glass: in the artist’s studio
+Northern Modernist Jewellery in Finland
+Paint and the Parthenon: conservation of ancient Greek sculpture
+Solemn reflections for Armistice Day
+What you may not know about the Triangle shirtwaist factory fire
+Sailor, statesman, symbol: reflecting on John McCain and the Vietnam War
+An anti-slavery anthem reimagined for today
+Special Olympics at 50
+Entrepreneurial embroiderers
+One coin, two coin, old coin, new coin: Searching for Dr. Seuss in the National Numismatic Collection
+Dallas Cowboys Cheerleaders donate iconic uniforms to the museum’s sports collection
+
+
+Topic # 24
+==========
+['one', 'people', 'also', 'display', 'early', 'scotland', 'used', 'first', 'new', 'made']
+
+What kind of Scottish Popster are you?
+A wildcat with a tale
+Colourful samplers on a cold Edinburgh morning
+Jean Jenkins: Pioneer of public ethnomusicology
+Weddings at the National Museum of Scotland
+Researching Northern Modernist Jewellery in Stockholm
+Chip-carved storage chest
+Prints of darkness
+Europe and the world: a symphony of cultures
+World's earliest figural tattoos discovered on 5,000-year-old mummies
+Suffragettes and the British Museum
+The science of belief: a conversation
+You're invited to a Bowl of Rice Party
+Prohibition was fantastic for American beer, or, cheers to homebrewers
+A story in clay: Sara Galner and the Saturday Evening Girls
+Lobbying: where money and power meet
+Striking it rich: American gold rushes of the early 19th century
+
+
+Topic # 25
+==========
+['many', 'see', 'part', 'years', 'work', 'different', 'well', 'made', 'people', 'one']
+
+A Cuvier’s beaked whale catastrophe: Exploring an unusual mass mortality in the North Atlantic
+Powering up in Maths Week 2018
+Chinese Whispers by Erin Dickson
+#FutureFeatures: Dancing on Tables
+Tai Chi at the Museum with Thistle
+Introducing the Assyrians
+New special exhibition on dissent announced
+A processional chariot from south India
+Does this ring a bell? School bells of the late 19th and early 20th centuries
+Who has the best hair in our Entertainment Collection?
+Abolitionist and Reformer Lucretia Mott
+
+
+Topic # 27
+==========
+['one', 'world', 'objects', 'would', 'working', 'also', 'made', 'years', 'two', 'like']
+
+Art of Glass – Installing at The National Centre for Craft & Design
+Are you ready to rock?!
+Snow, ice and everyday nature: the Wild Scotland Challenge
+Gala days: researching a Scottish tradition
+A new spin on an old classic: conserving the Chantal Meteor jukebox
+Sharks, satellites and science
+A very special piece of paper
+Bringing Franklin’s ships to life
+The appeal of snow
+Trade and contraband in ancient Assyria
+Haiti and Toussaint Louverture: the response must be a remix
+An introduction to the Parthenon and its sculptures
+Total eclipse of the sun, partial eclipse of inequality
+Remembering Robert Kennedy
+Adventures in collecting: Kenneth Salisbury's robot hand
+12 days in Hue: An American advisor’s Tet Offensive experience, Part 1
+Hamilton: How money tells his story
+
+
+Topic # 28
+==========
+['success', 'singer', 'leading', 'nearly', 'instead', 'sang', 'actually', 'era', 'god', 'animal']
+
+Stained-glass window featuring the Nativity
+Halifax N.S. from Citadel
+Mustard pot
+Morning glories
+Fort Chambly
+Alberta, 1908
+S.S. Empress of Scotland
+Beothuk tools
+En route for Benton
+Maskēkowak knife and sheath
+Hayley Wickenheiser’s jersey
+The British Museum Membercast: Stonehenge
+The British Museum Membercast: The seaside (Part 2)
+
+
+Topic # 29
+==========
+['growing', 'joined', 'newly', 'originally', 'stoker', 'suggests', 'animal', 'machine', 'mother', 'complete']
+
+Labrador, 1927
+Inuit print
+
+
+Topic # 30
+==========
+['paint', 'dynasty', 'task', 'appearance', 'cities', 'prince', 'news', 'august', 'instead', 'means']
+
+Victoria Memorial Museum Building
+St-Stephens Church
+Hooked mat of Québec Bridge
+Copper bracelet
+Post office boxes
+Log driver’s boots
+Pile of lobster traps
+Haida dugout canoe
+Tsimshian stone mask
+The British Museum Membercast: I object
+The British Museum Membercast: Cracking the Egyptian code
+
+
+Topic # 31
+==========
+['national', 'history', 'display', 'gallery', 'one', 'collection', 'well', 'war', 'many', 'posted']
+
+Ripping It Up: How Scottish pop music can inspire fashion
+
+
+Topic # 33
+==========
+['american', 'new', 'one', 'history', 'many', 'made', 'collection', 'first', 'glass', 'years']
+
+Unwrapping toys from the collections
+The Douglas Nugget, Britain’s largest gold nugget
+The backside of the bones: An analytical study of Shang-dynasty oracle bones
+How clocks work (in 5 easy steps)
+Suffragette tea set on display at People’s History Museum
+Who are the Dewdrop Fairies?
+Mickey Mouse turns 90
+Madam C. J. Walker’s philanthropy
+Past to present: History of philanthropy inspires contemporary giving
+
+
+Topic # 35
+==========
+['collection', 'one', 'museum', 'well', 'scotland', 'british', 'objects', 'many', 'people', 'also']
+
+Revealing blue light on a 19th-century Chinese helmet decorated with diancui
+Prints Charming: Japanese woodblock prints that have swept me off my feet
+The forgotten African islands: discovering biodiversity on Madagascar
+Twisted Gold and Alpine Axeheads: Exploring Scotland’s Connections with Europe
+The Glenmorangie Research Project: Beasts of the Viking Age
+Student internship: Analysing patterns on Scottish export ceramics
+Creating Scotland: a new chapter of the Glenmorangie Research Project
+Lots and lots of silver part 5: Installation of an exhibition
+Inuit drawings capture a changing world
+British Museum’s Iraq Scheme helps reunite objects from ancient site of Tello
+The world's oldest bridge is being preserved in Iraq
+Making connections: black people and cultures in Asia
+Minuteman Mickey Mouse: Disney and America's Bicentennial
+William Steinway's New York
+When philanthropists convinced people to save lives
+Grape gluts and Mother Clones: Prohibition and American wine
+Madam Speaker: A famous first joins the national collection
+What has the flair of K-pop? Historic Korean coins, obviously.
+
+
+Topic # 36
+==========
+['national', 'many', 'would', 'collection', 'also', 'made', 'years', 'one', 'first', 'glass']
+
+Concorde the film star
+5 Most Instagrammable Places in the National Museum of Scotland
+Revealing rarely seen robes
+Behind the Beadwork: Stories from an African Collection
+#FutureFeatures: Anna McLuckie
+The museum as a space for wellbeing
+Keeping the records straight
+Reluctant scientist ignores age-old advice: ‘Never work with children or animals’
+An elegant mustard pot from a seigneurial manor
+Who was Ashurbanipal?
+Reading Margery Kempe’s inner voices
+Our Emmeline – my statue by Hazel Reeves
+New York City’s Sängerfest of 1894
+Norman Granz: Revolutionizing jazz for social justice
+Creating home, creating legacies: how the Del Valles built Camulos
+
+
+Topic # 38
+==========
+['scotland', 'made', 'national', 'used', 'one', 'years', 'found', 'music', 'century', 'well']
+
+Collecting the Present: Craft, landscape and climate change
+Collecting the Present: a tea set that helps us rethink the past
+#FutureFeatures: Skjør
+Flora and Jane Sang: The unsung heroines of calculation
+Five things you might not know about working as a textile conservator
+Illustrating poetry on a 12th-century Chinese handscroll
+Suffrage objects in the British Museum
+Queer coins: LGBTQ rulers through history
+Mickey Mouse morale: Disney on the World War II home front
+Sewing for joy: Ann Lowe
+Special delivery by sled dogs
+These tractors show 150 years of farming history
+Bumping into new technologies: Hey, that's not what a light bulb is supposed to look like!
+
+
+Topic # 39
+==========
+['three', 'music', 'still', 'part', 'later', 'years', 'may', 'make', 'using', 'series']
+
+Daniel Johnson (1915–1968)
+
+
+Topic # 41
+==========
+['history', 'people', 'many', 'museum', 'also', 'display', 'years', 'american', 'part', 'life']
+
+“A big Scottish pop fashion monster”: Looks inspired by Rip It Up
+Collecting the Present: Filming the Land Reform story in Eigg and Ulva
+From soil samples to specialist analysis: introducing our post-excavation service
+Conserving the Kinghorne Carpet
+‘Enormous petrified mulberries’: a new dimension on carved stone balls
+On the wing: Signs of summer at the National Museum of Flight
+Seeking Indigenous Stories
+Winter wonderlands
+The 18th-century chocolate champions
+Gems, rings and lapidaries
+Words of wisdom from "All in the Family"'s dingbat: The graduation and life advice of Jean Stapleton
+
+
+Topic # 42
+==========
+['many', 'part', 'around', 'one', 'american', 'like', 'national', 'years', 'would', 'made']
+
+What are agates?
+Reaching out: the National Training Programme
+Let’s talk about Scotland’s National Airshow
+The Making of Medieval Europe – Power and Splendour
+Formed planar chaise lounge
+Baked beans to ambergris: the top 5 weird and wonderful aphrodisiacs
+Music of the world: a symphony of cultures
+In other words: Norman Granz, by the musicians who knew him
+The dueling designs for the modern x-ray tube in World War I
+
+
+Topic # 43
+==========
+['real', 'dynasty', 'era', 'low', 'believed', 'senior', 'bone', 'ways', 'represent', 'build']
+
+Loading a canoe
+Strike pillow fight
+
+Tiffany inkwell
+Sugarhouse
+Northwest coast adze
+
+
+Topic # 44
+==========
+['one', 'many', 'made', 'world', 'like', 'around', 'collection', 'century', 'also', 'used']
+
+“Hero of an earlier war”: Helping to secure the continuity of the National War Museum after World War II
+Mindfulness at the Museum
+Displaying the poppy hijab
+Inside The Poppy: A Symbol of Remembrance
+Tagine, couscous and brachiopods: Part ٣ (Three in Arabic!)
+Manga: a brief history in 12 works
+A journey through the Islamic world in eight objects
+Paradise on earth: the gardens of Ashurbanipal
+A Vodou drum at the British Museum
+From history, with love... 14 objects to get you in the mood for Valentine's Day
+The case of Luisa Moreno
+5 objects that James Smithson might be surprised to find in the institution he founded – until he learned their philanthropy stories
+Making money and doing good: The story of an African American power couple from the 1800s
+
+
+Topic # 45
+==========
+['singer', 'instead', 'true', 'pay', 'fit', 'round', 'closed', 'soldiers', 'wearing', 'coins']
+
+Decoy
+Horse-drawn hearse
+Dow’s Lake, Ottawa
+Huron-Wendat basket
+Coat
+Cherry spraying
+North West Company token
+Uniform of the Ottawa Snowshoe Club
+The British Museum Membercast: The seaside (Part 1)
+
+
+Topic # 46
+==========
+['one', 'like', 'collection', 'many', 'found', 'new', 'also', 'first', 'see', 'years']
+
+Collecting the Present: Land reform in Eigg and Ulva
+The Museum at war: remembering our servicemen from the First World War
+Collecting the Present: a life on display
+Rollin’ Rollin’ Rollin’
+Talking technology: how machines learned to speak
+Rodin and the art of experimentation
+Charmed lives in Greece
+The Round Reading Room at the British Museum
+M*A*S*H ended, but is not gone or forgotten
+
+
+Topic # 47
+==========
+['scotland', 'people', 'national', 'one', 'new', 'american', 'used', 'years', 'history', 'also']
+
+“Evacuating” the Museum to a medieval castle
+Filming inside a tomb, on board a bus and more!
+Why would you want a wasabai fire alarm?
+Dress to impress: Unveiling a stylish community project in Perth
+Tea for two
+Behind the buttons
+Symbol of change
+The portrait D’Arcy McGee never lived to see
+The story of sugar in 5 objects
+The Hindu festival of Holi
+Behind the scenes in the Museum's archives
+PHM's New Playwright in Residence Blog 1 of 3
+Remembering Peterloo
+Reflecting on the Queen of Soul's reign in American culture
+The crop of the 21st century
+What connects Abraham Lincoln and vampires? Bram Stoker, of course.
+What does Alexander Hamilton have to do with the lace industry in Ipswich, Massachusetts?
+Souvenirs of science
+The Fair Housing Act: Fifty years later
+Grab your books and tall striped hats: It's time to celebrate “Read Across America Day”
+Rich reds, pretty pinks, and velvety violets: Valentin dyes for Valentine's Day
+
+
+Topic # 48
+==========
+['exhibit', 'offered', 'singer', 'paint', 'vote', 'writing', 'followed', 'captured', 'politics', 'congress']
+
+Boats on the Great Slave Lake
+Bella Coola village
+Young cowboy
+Sled
+Bison vertebra with arrowhead
+Randy Bachman guitar
+
+
+Topic # 49
+==========
+['large', 'scottish', 'group', 'using', 'name', 'men', 'british', 'mickey', 'different', 'series']
+
+Comb
+
+
